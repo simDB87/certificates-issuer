@@ -1,15 +1,17 @@
- {
-    '@context': [
-      'https://www.w3.org/2018/credentials/v1',
-      'https://www.blockcerts.org/schema/3.0-alpha/context.json'
-    ],
-    id: 'http://localhost:3000/certificates/issuer-profile.json',
-    type: 'Profile',
-    name: 'La Tua Azienda o Università',
-    url: 'http://localhost:3000',
-    email: 'certificates@tuodominio.com',
-    publicKey: [{
-      id: 'ecdsa-koblitz-pubkey:0x57055DA6AF7fE806B55A8df80be641BA47D5eDd0',
-      created: '2025-01-01T00:00:00Z'
-    }]
-  }
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://www.blockcerts.org/schema/3.0-alpha/context.json"
+  ],
+  "id": "http://localhost:3000/certificates/issuer-profile.json",
+  "type": "Profile",
+  "name": "La Tua Azienda o Università",
+  "url": "http://localhost:3000",
+  "email": "certificates@tuodominio.com",
+  "publicKey": [
+    {
+      "id": "ecdsa-koblitz-pubkey:0x57055DA6AF7fE806B55A8df80be641BA47D5eDd0",
+      "created": "2025-01-01T00:00:00Z"
+    }
+  ]
+}
