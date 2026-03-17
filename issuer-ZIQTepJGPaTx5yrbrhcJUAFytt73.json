@@ -3,7 +3,7 @@
     "https://www.w3.org/2018/credentials/v1",
     "https://www.blockcerts.org/schema/3.0-alpha/context.json"
   ],
-  "id": "https://raw.githubusercontent.com/simDB87/certificates-issuer/main/issuer-ZIQTepJGPaTx5yrbrhcJUAFytt73.json"
+  "id": "https://raw.githubusercontent.com/simDB87/certificates-issuer/main/issuer-ZIQTepJGPaTx5yrbrhcJUAFytt73.json",
   "type": "Profile",
   "name": "hrc",
   "url": "http://localhost:3000",
