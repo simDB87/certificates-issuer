@@ -1,0 +1,14 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Profile",
+  "id": "https://raw.githubusercontent.com/simDB87/certificates-issuer/main/issuer-ZIQTepJGPaTx5yrbrhcJUAFytt73.json",
+  "name": "Marco Aurelio - Comune Roma (test)",
+  "url": "https://mc-test.it",
+  "email": "marco.aurelio@test.it",
+  "publicKey": [
+    {
+      "id": "ecdsa-koblitz-pubkey:0x57055DA6AF7fE806B55A8df80be641BA47D5eDd0",
+      "created": "2025-01-01T00:00:00Z"
+    }
+  ]
+}
