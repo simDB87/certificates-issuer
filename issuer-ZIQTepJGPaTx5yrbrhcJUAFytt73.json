@@ -8,6 +8,9 @@
   "name": "HRC",
   "url": "https://hrc.it",
   "email": "certificates@hrc.com",
+   "verification": {
+    "allowedOrigins": "quinx-cert-platform-112808164809.europe-west8.run.app"
+  },
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0x57055DA6AF7fE806B55A8df80be641BA47D5eDd0",
